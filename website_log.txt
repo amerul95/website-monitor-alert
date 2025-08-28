@@ -1,2 +1,20 @@
 [2025-08-29 01:16:52] ⚠️ Website DOWN (Status: 403), 2025-08-29 01:16:52
 [2025-08-29 01:23:42] ✅ Website Vonway is UP , 2025-08-29 01:23:42
+[2025-08-29 02:29:30] ✅ Website Vonway is UP , 2025-08-29 02:29:30
+[2025-08-29 02:31:36] ✅ Website Vonway is UP , 2025-08-29 02:31:36
+[2025-08-29 02:32:06] ✅ Website Vonway is UP , 2025-08-29 02:32:06
+[2025-08-29 02:37:29] ✅ Website Vonway is UP , 2025-08-29 02:37:29
+[2025-08-29 02:37:31] ✅ Website Vonway is UP , 2025-08-29 02:37:31
+[2025-08-29 02:38:06] ✅ Website Vonway is UP , 2025-08-29 02:38:06
+[2025-08-29 02:39:06] ✅ Website Vonway is UP , 2025-08-29 02:39:06
+[2025-08-29 02:40:06] ✅ Website Vonway is UP , 2025-08-29 02:40:06
+[2025-08-29 02:41:06] ✅ Website Vonway is UP , 2025-08-29 02:41:06
+[2025-08-29 02:42:15] ❌ ERROR checking website: HTTPSConnectionPool(host='vonwayforex.com', port=443): Read timed out. (read timeout=10), 2025-08-29 02:42:15
+[2025-08-29 02:43:18] ❌ ERROR checking website: HTTPSConnectionPool(host='vonwayforex.com', port=443): Read timed out. (read timeout=10), 2025-08-29 02:43:18
+[2025-08-29 02:44:05] ⚠️ Website DOWN (Status: 503), 2025-08-29 02:44:05
+[2025-08-29 02:45:06] ✅ Website Vonway is UP , 2025-08-29 02:45:06
+[2025-08-29 02:46:06] ✅ Website Vonway is UP , 2025-08-29 02:46:06
+[2025-08-29 02:47:06] ✅ Website Vonway is UP , 2025-08-29 02:47:06
+[2025-08-29 02:48:06] ✅ Website Vonway is UP , 2025-08-29 02:48:06
+[2025-08-29 02:49:06] ✅ Website Vonway is UP , 2025-08-29 02:49:06
+[2025-08-29 02:50:06] ✅ Website Vonway is UP , 2025-08-29 02:50:06
